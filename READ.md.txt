@@ -1,0 +1,4 @@
+#Sample repository..
+This is the same file.
+
+checking the content in the file.
